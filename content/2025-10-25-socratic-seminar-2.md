@@ -1,5 +1,6 @@
 +++
 title = "Socratic Seminar #2"
+date = 2025-10-25
 template = "post.html"
 [extra]
 +++
@@ -12,7 +13,7 @@ THE HIVE workplace CapTamarin, Mauritius | [Map](https://maps.app.goo.gl/28AWKQN
 
 ## Announcements
 
-Join us on our Seventh Bitcoin [Socratic Seminar](/about)! A special thank you to our
+Join us on our Second Bitcoin [Socratic Seminar](/about)! A special thank you to our
 sponsor [Btrust](http://btrust.tech/) for food and refreshments.
 
 ## Reminders
@@ -45,3 +46,4 @@ MC: [Tobi](https://github.com/Jeezman)
 - [BITSACCO pilot announcement](https://bitsacco.com) : August 3rd, 2024
 - [Africa Bitcoin Conference](https://afrobitcoin.org) : Dec 9th - 11th, 2024
   - [ABC Fellowship](https://afrobitcoin.org/afro-bitcoin-fellowship/), [X thread](https://x.com/AfroBitcoinOrg/status/1816223783574741450)
+
