@@ -14,7 +14,7 @@ Alche Pamplemousses, Mauritius | [Map](https://maps.app.goo.gl/uHCXHnp2YeZ315Af7
 ## Announcements
 
 Join us on our Second Bitcoin [Socratic Seminar](/about)! A special thank you to our
-sponsor [Btrust](http://btrust.tech/) for Space and refreshments.
+sponsor [Btrust](http://btrust.tech/).
 
 ## Reminders
 
@@ -25,18 +25,21 @@ sponsor [Btrust](http://btrust.tech/) for Space and refreshments.
 
 # Topics
 
-### Blockchain 101 × Bitcoin Network
+### Blockchain Transactions
 
 ---
 Meetup Agenda
 12:00 – 12:05 — Welcome & Opening
 
-Speaker: Sadiq
+Speaker: Hanif
+
+Introduction to BitDevs Mauritius
 
 Session goals and overview
 
 12:05 – 12:20 — Anatomy of a Bitcoin Transaction
 
+-Sadiq
 What a transaction is in Bitcoin
 
 Inputs and outputs
@@ -46,6 +49,8 @@ UTXO model explained
 Transaction flow from creation to confirmation
 
 12:20 – 12:40 — Transaction Structure & Formatting
+
+-Sadiq
 
 Transaction fields breakdown
 
@@ -57,6 +62,8 @@ Transaction IDs and hashing
 
 12:40 – 12:55 — Parsing Bitcoin Transactions (Practical Walkthrough)
 
+-Sadiq
+
 Reading a raw transaction
 
 Decoding inputs/outputs
@@ -66,7 +73,6 @@ Understanding scriptSig and scriptPubKey
 12:55 – 13:00 — Discussion & Closing
 
 Open questions
-
 
 Btrust Builders
 
