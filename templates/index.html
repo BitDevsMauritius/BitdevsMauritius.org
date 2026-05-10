@@ -9,7 +9,7 @@
     </title>
 
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <link rel="icon" href="/favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
 
     <link rel="stylesheet" href="/style.css">
     <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
@@ -18,45 +18,45 @@
 
 <body>
 
-<div class="Site">
+    <div class="Site">
 
-    <header class="Header">
-        <div class="Header-inner">
-            <div class="Header-logo">
-                <a href="/">{{ config.title }}</a>
+        <header class="Header">
+            <div class="Header-inner">
+                <div class="Header-logo">
+                    <a href="/">{{ config.title }}</a>
+                </div>
+                <nav class="Header-nav">
+                    <a href="/about">About</a>
+                    <a href="{{ config.extra.luma }}" target="_blank" rel="noopener nofollow">Clooza</a>
+                    <a href="{{ config.extra.discord }}" target="_blank" rel="noopener nofollow">Discord</a>
+                    <a href="{{ config.extra.twitter }}" target="_blank" rel="noopener nofollow">Twitter</a>
+                </nav>
             </div>
-            <nav class="Header-nav">
-                <a href="/about">About</a>
-                <a href="{{ config.extra.luma }}" target="_blank" rel="noopener nofollow">Luma</a>
-                <a href="{{ config.extra.discord }}" target="_blank" rel="noopener nofollow">Discord</a>
-                <a href="{{ config.extra.twitter }}" target="_blank" rel="noopener nofollow">Twitter</a>
-            </nav>
-        </div>
-        <div class="Header-border">
-            ==============================================================================================================================================================
-        </div>
-    </header>
-
-    {% block content %}
-    <div class="Home">
-        <p class="Home-about">
-            {{ config.description }}
-        </p>
-
-        <div class="Home-posts">
-            <h2 class="Home-posts-title">Upcoming and Recent Events</h2>
-            {% for page in section.pages %}
-            <div class="Home-posts-post">
-                <span class="Home-posts-post-date">{{ page.date | date(format="%Y-%m-%d") }}</span>
-                <span class="Home-posts-post-arrow">&raquo;</span>
-                <a class="Home-posts-post-title" href="{{ page.permalink }}">{{ page.title }}</a>
+            <div class="Header-border">
+                ==============================================================================================================================================================
             </div>
-            {% endfor %}
-        </div>
-    </div>
-    {% endblock content %}
+        </header>
 
-<script type="application/ld+json">
+        {% block content %}
+        <div class="Home">
+            <p class="Home-about">
+                {{ config.description }}
+            </p>
+
+            <div class="Home-posts">
+                <h2 class="Home-posts-title">Upcoming and Recent Events</h2>
+                {% for page in section.pages %}
+                <div class="Home-posts-post">
+                    <span class="Home-posts-post-date">{{ page.date | date(format="%Y-%m-%d") }}</span>
+                    <span class="Home-posts-post-arrow">&raquo;</span>
+                    <a class="Home-posts-post-title" href="{{ page.permalink }}">{{ page.title }}</a>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        {% endblock content %}
+
+        <script type="application/ld+json">
 {
   "@context": "http://www.schema.org",
   "@type": "CommunityClub",
@@ -84,21 +84,21 @@
 }
 </script>
 
-    <footer class="Footer">
-        <div class="Footer-border">
-            ==============================================================================================================================================================
-        </div>
-        <div class="Footer-inner">
-            <div class="Footer-source">
-                <a href="{{ config.extra.github }}" target="_blank"
-                   rel="noopener nofollow">Source available on Github</a>
+        <footer class="Footer">
+            <div class="Footer-border">
+                ==============================================================================================================================================================
             </div>
-            <div class="Footer-rss">
-                <a href="/sponsors">Sponsors</a>
-                <a href="/rss.xml">RSS Feed</a>
+            <div class="Footer-inner">
+                <div class="Footer-source">
+                    <a href="{{ config.extra.github }}" target="_blank" rel="noopener nofollow">Source available on
+                        Github</a>
+                </div>
+                <div class="Footer-rss">
+                    <a href="/sponsors">Sponsors</a>
+                    <a href="/rss.xml">RSS Feed</a>
+                </div>
             </div>
-        </div>
-    </footer>
+        </footer>
 
     </div>
 
