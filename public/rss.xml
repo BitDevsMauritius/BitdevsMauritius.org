@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>BitDevsMauritius</title>
+      <link>/</link>
+      <description>BitDevsMauritius is a community in Mauritius, for those interested in discussing and participating in the research and development of Bitcoin and related protocols and software.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sat, 25 Apr 2026 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Socratic Seminar #5</title>
+          <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-5/</link>
+          <guid>/socratic-seminar-5/</guid>
+          <description xml:base="/socratic-seminar-5/">&lt;h2 id=&quot;location&quot;&gt;Location&lt;&#x2F;h2&gt;
+&lt;p&gt;The event will be hosted at &lt;strong&gt;ALCHE&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;Alche Pamplemousses, Mauritius | &lt;a href=&quot;https:&#x2F;&#x2F;maps.app.goo.gl&#x2F;uHCXHnp2YeZ315Af7&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h2&gt;
+&lt;p&gt;Join us for our Fifth Bitcoin &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our
+sponsor &lt;a href=&quot;http:&#x2F;&#x2F;btrust.tech&#x2F;&quot;&gt;Btrust&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;topics&quot;&gt;Topics&lt;&#x2F;h1&gt;
+&lt;h3 id=&quot;lightning-network-fundamentals-bitcoin-quantum-considerations&quot;&gt;Lightning Network Fundamentals + Bitcoin &amp;amp; Quantum Considerations&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;&#x2F;strong&gt; 1 Hour 5 Minutes
+&lt;strong&gt;Audience:&lt;&#x2F;strong&gt; Developers, CS students, security-focused builders&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Meetup Agenda&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;1. Opening &amp;amp; Context (5 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Welcome and session framing&lt;&#x2F;li&gt;
+&lt;li&gt;Why Lightning Network matters for Bitcoin scalability&lt;&#x2F;li&gt;
+&lt;li&gt;Introducing the idea of long-term security (including quantum considerations)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;2. Lightning Network — Beginner Foundations (25 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Objective: Build a clear mental model of Lightning&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;What the Lightning Network is and why it exists&lt;&#x2F;li&gt;
+&lt;li&gt;Payment channels: opening, updating, closing&lt;&#x2F;li&gt;
+&lt;li&gt;Off-chain vs on-chain transactions&lt;&#x2F;li&gt;
+&lt;li&gt;HTLCs (Hashed Time-Locked Contracts) simplified&lt;&#x2F;li&gt;
+&lt;li&gt;Routing payments across the network&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;em&gt;Discussion:&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;How Lightning improves speed and cost&lt;&#x2F;li&gt;
+&lt;li&gt;Trade-offs and limitations&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;3. Bitcoin &amp;amp; Quantum Considerations (20 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Objective: Introduce future-facing security thinking&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;What quantum computing is (high-level)&lt;&#x2F;li&gt;
+&lt;li&gt;Why it matters for cryptography in Bitcoin&lt;&#x2F;li&gt;
+&lt;li&gt;Potential risks to elliptic curve cryptography&lt;&#x2F;li&gt;
+&lt;li&gt;Current state: theoretical vs practical threat&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;em&gt;Reference Discussion:&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Insights from bitcoin-quantum&lt;&#x2F;li&gt;
+&lt;li&gt;Possible mitigation paths (quantum-resistant signatures, migration paths)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;4. Open Discussion &amp;amp; Builder Direction (15 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Should Bitcoin developers care about quantum today?&lt;&#x2F;li&gt;
+&lt;li&gt;How to start exploring Lightning development&lt;&#x2F;li&gt;
+&lt;li&gt;Pathways into research and contribution&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Btrust Builder Pathways (5 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;builders&quot;&gt;Btrust Builders&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #4</title>
+          <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-4/</link>
+          <guid>/socratic-seminar-4/</guid>
+          <description xml:base="/socratic-seminar-4/">&lt;h2 id=&quot;location&quot;&gt;Location&lt;&#x2F;h2&gt;
+&lt;p&gt;The event will be hosted at &lt;strong&gt;ALCHE&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;Alche Pamplemousses, Mauritius | &lt;a href=&quot;https:&#x2F;&#x2F;maps.app.goo.gl&#x2F;uHCXHnp2YeZ315Af7&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h2&gt;
+&lt;p&gt;Join us for our Fourth Bitcoin &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our
+sponsor &lt;a href=&quot;http:&#x2F;&#x2F;btrust.tech&#x2F;&quot;&gt;Btrust&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;topics&quot;&gt;Topics&lt;&#x2F;h1&gt;
+&lt;h3 id=&quot;encryption-a-deep-dive-into-nostr-relays&quot;&gt;Encryption &amp;amp; A Deep Dive into Nostr Relays&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;&#x2F;strong&gt; 1 Hour&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Speakers:&lt;&#x2F;strong&gt; Hanif (Coordinator), Bruno Bernard (Main Speaker)&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Meetup Agenda&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;1. Opening &amp;amp; Context (5 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;&#x2F;strong&gt; Hanif&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Welcome and session overview&lt;&#x2F;li&gt;
+&lt;li&gt;Why encryption matters in decentralized systems&lt;&#x2F;li&gt;
+&lt;li&gt;Introduction to Nostr and its relevance&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;2. Encryption Fundamentals in Nostr (15 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;&#x2F;strong&gt; Bruno Bernard&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Public&#x2F;private key cryptography in Nostr&lt;&#x2F;li&gt;
+&lt;li&gt;How identities are derived from keys&lt;&#x2F;li&gt;
+&lt;li&gt;Event signing and verification&lt;&#x2F;li&gt;
+&lt;li&gt;Basic encryption model used in Nostr communication&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;3. Nostr Relay Architecture Deep Dive (25 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;&#x2F;strong&gt; Bruno Bernard&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;What a relay is and its role in the protocol&lt;&#x2F;li&gt;
+&lt;li&gt;Client-relay interaction model&lt;&#x2F;li&gt;
+&lt;li&gt;Event propagation and storage&lt;&#x2F;li&gt;
+&lt;li&gt;Relay policies, censorship resistance, and trade-offs&lt;&#x2F;li&gt;
+&lt;li&gt;Security considerations in relay design&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;4. Practical Discussion &amp;amp; Use Cases (10 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;&#x2F;strong&gt; Bruno Bernard&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;How developers can interact with relays&lt;&#x2F;li&gt;
+&lt;li&gt;Common tools and implementations&lt;&#x2F;li&gt;
+&lt;li&gt;Real-world use cases and challenges&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;5. Open Q&amp;amp;A and Closing (5 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;&#x2F;strong&gt; Hanif&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Questions and discussion&lt;&#x2F;li&gt;
+&lt;li&gt;Key takeaways&lt;&#x2F;li&gt;
+&lt;li&gt;Next meetup preview&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;builders&quot;&gt;Btrust Builders&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #3</title>
+          <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-3/</link>
+          <guid>/socratic-seminar-3/</guid>
+          <description xml:base="/socratic-seminar-3/">&lt;h2 id=&quot;location&quot;&gt;Location&lt;&#x2F;h2&gt;
+&lt;p&gt;The event will be hosted at &lt;strong&gt;ALCHE&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;Alche Pamplemousses, Mauritius | &lt;a href=&quot;https:&#x2F;&#x2F;maps.app.goo.gl&#x2F;uHCXHnp2YeZ315Af7&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h2&gt;
+&lt;p&gt;Join us for our Third Bitcoin &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our
+sponsor &lt;a href=&quot;http:&#x2F;&#x2F;btrust.tech&#x2F;&quot;&gt;Btrust&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;topics&quot;&gt;Topics&lt;&#x2F;h1&gt;
+&lt;h3 id=&quot;cryptographic-security-in-bitcoin&quot;&gt;Cryptographic Security in Bitcoin&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;&#x2F;strong&gt; 1 Hour&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Meetup Agenda&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;1. Opening &amp;amp; Context (5 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Objective: Establish why cryptography is the backbone of Bitcoin.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bitcoin as a system secured by mathematics rather than institutional trust&lt;&#x2F;li&gt;
+&lt;li&gt;The two core pillars: hashing and digital signatures&lt;&#x2F;li&gt;
+&lt;li&gt;How this session builds on the previous deep dive into transactions&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;2. SHA-256 and Hashing in Bitcoin (25 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Objective: Understand how hashing secures blocks and transactions.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;What a cryptographic hash function is&lt;&#x2F;li&gt;
+&lt;li&gt;Core properties: determinism, preimage resistance, collision resistance&lt;&#x2F;li&gt;
+&lt;li&gt;SHA-256 in Proof-of-Work&lt;&#x2F;li&gt;
+&lt;li&gt;Double SHA-256 in block headers&lt;&#x2F;li&gt;
+&lt;li&gt;Hashing in transaction IDs and Merkle trees&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;em&gt;Discussion + Walkthrough:&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Examine the structure of a block header&lt;&#x2F;li&gt;
+&lt;li&gt;Identify which fields are hashed&lt;&#x2F;li&gt;
+&lt;li&gt;Explain why double hashing is used&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;3. Elliptic Curve Cryptography (25 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Objective: Understand ownership and signature validation.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Public&#x2F;private key cryptography fundamentals&lt;&#x2F;li&gt;
+&lt;li&gt;The secp256k1 curve used in Bitcoin&lt;&#x2F;li&gt;
+&lt;li&gt;Private key → Public key derivation&lt;&#x2F;li&gt;
+&lt;li&gt;Overview of ECDSA and Schnorr signatures&lt;&#x2F;li&gt;
+&lt;li&gt;How signatures authorize spending of UTXOs&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;em&gt;Conceptual Walkthrough:&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;From private key to public key&lt;&#x2F;li&gt;
+&lt;li&gt;From public key to address&lt;&#x2F;li&gt;
+&lt;li&gt;Where signature verification happens in validation&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;4. Base58 and Address Encoding (5 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Objective: Briefly introduce encoding and checksum design.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Why Bitcoin does not use raw public keys directly&lt;&#x2F;li&gt;
+&lt;li&gt;Base58Check and checksum protection&lt;&#x2F;li&gt;
+&lt;li&gt;How encoding improves usability and error detection&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;builders&quot;&gt;Btrust Builders&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #2</title>
+          <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-2/</link>
+          <guid>/socratic-seminar-2/</guid>
+          <description xml:base="/socratic-seminar-2/">&lt;h2 id=&quot;location&quot;&gt;Location&lt;&#x2F;h2&gt;
+&lt;p&gt;The event will be hosted at &lt;strong&gt;ALCHE&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;Alche Pamplemousses, Mauritius | &lt;a href=&quot;https:&#x2F;&#x2F;maps.app.goo.gl&#x2F;uHCXHnp2YeZ315Af7&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h2&gt;
+&lt;p&gt;Join us on our Second Bitcoin &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our
+sponsor &lt;a href=&quot;http:&#x2F;&#x2F;btrust.tech&#x2F;&quot;&gt;Btrust&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;topics&quot;&gt;Topics&lt;&#x2F;h1&gt;
+&lt;h3 id=&quot;blockchain-transactions&quot;&gt;Blockchain Transactions&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Meetup Agenda
+12:00 – 12:05 — Welcome &amp;amp; Opening&lt;&#x2F;p&gt;
+&lt;p&gt;Speaker: Hanif&lt;&#x2F;p&gt;
+&lt;p&gt;Introduction to BitDevs Mauritius&lt;&#x2F;p&gt;
+&lt;p&gt;Session goals and overview&lt;&#x2F;p&gt;
+&lt;p&gt;12:05 – 12:20 — Anatomy of a Bitcoin Transaction&lt;&#x2F;p&gt;
+&lt;p&gt;-Sadiq
+What a transaction is in Bitcoin&lt;&#x2F;p&gt;
+&lt;p&gt;Inputs and outputs&lt;&#x2F;p&gt;
+&lt;p&gt;UTXO model explained&lt;&#x2F;p&gt;
+&lt;p&gt;Transaction flow from creation to confirmation&lt;&#x2F;p&gt;
+&lt;p&gt;12:20 – 12:40 — Transaction Structure &amp;amp; Formatting&lt;&#x2F;p&gt;
+&lt;p&gt;-Sadiq&lt;&#x2F;p&gt;
+&lt;p&gt;Transaction fields breakdown&lt;&#x2F;p&gt;
+&lt;p&gt;Version, locktime, scripts&lt;&#x2F;p&gt;
+&lt;p&gt;Serialization format (raw transaction bytes)&lt;&#x2F;p&gt;
+&lt;p&gt;Transaction IDs and hashing&lt;&#x2F;p&gt;
+&lt;p&gt;12:40 – 12:55 — Parsing Bitcoin Transactions (Practical Walkthrough)&lt;&#x2F;p&gt;
+&lt;p&gt;-Sadiq&lt;&#x2F;p&gt;
+&lt;p&gt;Reading a raw transaction&lt;&#x2F;p&gt;
+&lt;p&gt;Decoding inputs&#x2F;outputs&lt;&#x2F;p&gt;
+&lt;p&gt;Understanding scriptSig and scriptPubKey&lt;&#x2F;p&gt;
+&lt;p&gt;12:55 – 13:00 — Discussion &amp;amp; Closing&lt;&#x2F;p&gt;
+&lt;p&gt;Open questions&lt;&#x2F;p&gt;
+&lt;p&gt;Btrust Builders&lt;&#x2F;p&gt;
+&lt;p&gt;Suggested resources for deeper study&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;builders&quot;&gt;Btrust Builders&lt;&#x2F;a&gt; : January 31th, 2026&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #1</title>
+          <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-1/</link>
+          <guid>/socratic-seminar-1/</guid>
+          <description xml:base="/socratic-seminar-1/">&lt;h2 id=&quot;location&quot;&gt;Location&lt;&#x2F;h2&gt;
+&lt;p&gt;The event will be hosted at &lt;strong&gt;Middlesex University&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;Middlesex University Mauritius, Coastal Road, 90203, Uniciti, Mauritius | &lt;a href=&quot;https:&#x2F;&#x2F;maps.app.goo.gl&#x2F;PHBdFnqd7FrgZhxT7?g_st=ipc&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h2&gt;
+&lt;p&gt;Join us on our Second Bitcoin &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our
+sponsor &lt;a href=&quot;http:&#x2F;&#x2F;btrust.tech&#x2F;&quot;&gt;Btrust&lt;&#x2F;a&gt; for food and refreshments.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;topics&quot;&gt;Topics&lt;&#x2F;h1&gt;
+&lt;h3 id=&quot;blockchain-101-x-bitcoin-network&quot;&gt;Blockchain 101 × Bitcoin Network&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Meetup Agenda&lt;&#x2F;p&gt;
+&lt;p&gt;12:30 – 12:35
+Welcome &amp;amp; Introduction
+Fauziyya &amp;amp; Denzel&lt;&#x2F;p&gt;
+&lt;p&gt;12:35 – 12:55&lt;&#x2F;p&gt;
+&lt;p&gt;Sadiq
+Blockchain 101 × Bitcoin Network
+How Bitcoin Works
+Btrust Developer Program&lt;&#x2F;p&gt;
+&lt;p&gt;12:55 – 13:15
+Bruno
+Open Source Contribution&lt;&#x2F;p&gt;
+&lt;p&gt;13:15 – 13:30
+Q&amp;amp;A &#x2F; Interactive Discussion&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;upcoming-events&quot;&gt;Upcoming Events&lt;&#x2F;h4&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;devday.btrust.tech&#x2F;&quot;&gt;Btrust DevDay&lt;&#x2F;a&gt; : December 2nd, 2025&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;afrobitcoin.org&quot;&gt;Africa Bitcoin Conference&lt;&#x2F;a&gt; : Dec 1th - 5th, 2025&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #0</title>
+          <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-0/</link>
+          <guid>/socratic-seminar-0/</guid>
+          <description xml:base="/socratic-seminar-0/">&lt;h2 id=&quot;location&quot;&gt;Location&lt;&#x2F;h2&gt;
+&lt;p&gt;The event will be hosted at &lt;strong&gt;TheHive Mauritius&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;THE HIVE workplace CapTamarin, Mauritius | &lt;a href=&quot;https:&#x2F;&#x2F;maps.app.goo.gl&#x2F;28AWKQNKEy6h161q6?g_st=ipc&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h2&gt;
+&lt;p&gt;Join us on our Second Bitcoin &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our
+sponsor &lt;a href=&quot;http:&#x2F;&#x2F;btrust.tech&#x2F;&quot;&gt;Btrust&lt;&#x2F;a&gt; for food and refreshments.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;topics&quot;&gt;Topics&lt;&#x2F;h1&gt;
+&lt;h3 id=&quot;understanding-bitcoin&quot;&gt;Understanding Bitcoin&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;MC: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sadeeqrabiu&quot;&gt;Sadiq&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;BitDevs Mauritius&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.org&#x2F;en&#x2F;how-it-works&quot;&gt;How does Bitcoin work?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.org&#x2F;en&#x2F;how-it-works&quot;&gt;Bitcoin Wallets: Understanding How They Works&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;&quot;&gt;Btrust Developer Program&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;kallerosenbaum&#x2F;grokkingbitcoin&#x2F;blob&#x2F;master&#x2F;ch08-peer-to-peer-network.adoc&quot;&gt;The Bitcoin Network&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;upcoming-events&quot;&gt;Upcoming Events&lt;&#x2F;h4&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;devday.btrust.tech&#x2F;&quot;&gt;Btrust DevDay&lt;&#x2F;a&gt; : December 2nd, 2025&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;afrobitcoin.org&quot;&gt;Africa Bitcoin Conference&lt;&#x2F;a&gt; : Dec 1th - 5th, 2025&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+    </channel>
+</rss>

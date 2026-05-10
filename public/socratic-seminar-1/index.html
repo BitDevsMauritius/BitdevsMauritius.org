@@ -5,7 +5,7 @@
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta content="utf-8" http-equiv="encoding">
     <title>
-        {% block title %}{{ config.title }}{% endblock title %}
+        BitDevsMauritius
     </title>
 
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -23,13 +23,13 @@
         <header class="Header">
             <div class="Header-inner">
                 <div class="Header-logo">
-                    <a href="/">{{ config.title }}</a>
+                    <a href="/">BitDevsMauritius</a>
                 </div>
                 <nav class="Header-nav">
                     <a href="/about">About</a>
-                    <a href="{{ config.extra.clooza }}" target="_blank" rel="noopener nofollow">Clooza</a>
-                    <a href="{{ config.extra.discord }}" target="_blank" rel="noopener nofollow">Discord</a>
-                    <a href="{{ config.extra.twitter }}" target="_blank" rel="noopener nofollow">Twitter</a>
+                    <a href="https:&#x2F;&#x2F;www.clooza.com&#x2F;en&#x2F;bitdevsmauritius" target="_blank" rel="noopener nofollow">Clooza</a>
+                    <a href="https:&#x2F;&#x2F;discord.gg&#x2F;86aCN859U3" target="_blank" rel="noopener nofollow">Discord</a>
+                    <a href="https:&#x2F;&#x2F;x.com&#x2F;BitDevsMRU" target="_blank" rel="noopener nofollow">Twitter</a>
                 </nav>
             </div>
             <div class="Header-border">
@@ -37,24 +37,56 @@
             </div>
         </header>
 
-        {% block content %}
-        <div class="Home">
-            <p class="Home-about">
-                {{ config.description }}
-            </p>
-
-            <div class="Home-posts">
-                <h2 class="Home-posts-title">Upcoming and Recent Events</h2>
-                {% for page in section.pages %}
-                <div class="Home-posts-post">
-                    <span class="Home-posts-post-date">{{ page.date | date(format="%Y-%m-%d") }}</span>
-                    <span class="Home-posts-post-arrow">&raquo;</span>
-                    <a class="Home-posts-post-title" href="{{ page.permalink }}">{{ page.title }}</a>
-                </div>
-                {% endfor %}
-            </div>
+        
+<section>
+    <div class="Post">
+        <h1 class="Post-title">Socratic Seminar #1</h1>
+        <div class="Post-info">
+            <span>2025-11-20</span>
+            
         </div>
-        {% endblock content %}
+        
+
+        <div class="Post-content"><h2 id="location">Location</h2>
+<p>The event will be hosted at <strong>Middlesex University</strong>:</p>
+<p>Middlesex University Mauritius, Coastal Road, 90203, Uniciti, Mauritius | <a href="https://maps.app.goo.gl/PHBdFnqd7FrgZhxT7?g_st=ipc">Map</a></p>
+<h2 id="announcements">Announcements</h2>
+<p>Join us on our Second Bitcoin <a href="/about">Socratic Seminar</a>! A special thank you to our
+sponsor <a href="http://btrust.tech/">Btrust</a> for food and refreshments.</p>
+<h2 id="reminders">Reminders</h2>
+<ul>
+<li>We prefer no photos and no videos during the event</li>
+<li><a href="https://www.chathamhouse.org/about-us/chatham-house-rule">Chatham House Rule</a></li>
+<li>Leave the meeting space as clean as you found it</li>
+<li>Suggest topics for the next Socratic Seminar! <a href="/about/find-topics">Where to find topics?</a></li>
+</ul>
+<h1 id="topics">Topics</h1>
+<h3 id="blockchain-101-x-bitcoin-network">Blockchain 101 × Bitcoin Network</h3>
+<hr />
+<p>Meetup Agenda</p>
+<p>12:30 – 12:35
+Welcome &amp; Introduction
+Fauziyya &amp; Denzel</p>
+<p>12:35 – 12:55</p>
+<p>Sadiq
+Blockchain 101 × Bitcoin Network
+How Bitcoin Works
+Btrust Developer Program</p>
+<p>12:55 – 13:15
+Bruno
+Open Source Contribution</p>
+<p>13:15 – 13:30
+Q&amp;A / Interactive Discussion</p>
+<h4 id="upcoming-events">Upcoming Events</h4>
+<hr />
+<ul>
+<li><a href="https://devday.btrust.tech/">Btrust DevDay</a> : December 2nd, 2025</li>
+<li><a href="https://afrobitcoin.org">Africa Bitcoin Conference</a> : Dec 1th - 5th, 2025</li>
+</ul>
+</div>
+    </div>
+</section>
+
 
         <script type="application/ld+json">
 {
@@ -90,7 +122,7 @@
             </div>
             <div class="Footer-inner">
                 <div class="Footer-source">
-                    <a href="{{ config.extra.github }}" target="_blank" rel="noopener nofollow">Source available on
+                    <a href="https:&#x2F;&#x2F;github.com&#x2F;BitDevsMauritius&#x2F;BitDevMauritius" target="_blank" rel="noopener nofollow">Source available on
                         Github</a>
                 </div>
                 <div class="Footer-rss">
