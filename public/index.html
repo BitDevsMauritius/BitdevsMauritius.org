@@ -5,7 +5,7 @@
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta content="utf-8" http-equiv="encoding">
     <title>
-        {% block title %}{{ config.title }}{% endblock title %}
+        BitDevsMauritius
     </title>
 
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -23,13 +23,13 @@
         <header class="Header">
             <div class="Header-inner">
                 <div class="Header-logo">
-                    <a href="/">{{ config.title }}</a>
+                    <a href="/">BitDevsMauritius</a>
                 </div>
                 <nav class="Header-nav">
                     <a href="/about">About</a>
-                    <a href="{{ config.extra.clooza }}" target="_blank" rel="noopener nofollow">Clooza</a>
-                    <a href="{{ config.extra.discord }}" target="_blank" rel="noopener nofollow">Discord</a>
-                    <a href="{{ config.extra.twitter }}" target="_blank" rel="noopener nofollow">Twitter</a>
+                    <a href="https:&#x2F;&#x2F;www.clooza.com&#x2F;en&#x2F;bitdevsmauritius" target="_blank" rel="noopener nofollow">Clooza</a>
+                    <a href="https:&#x2F;&#x2F;discord.gg&#x2F;86aCN859U3" target="_blank" rel="noopener nofollow">Discord</a>
+                    <a href="https:&#x2F;&#x2F;x.com&#x2F;BitDevsMRU" target="_blank" rel="noopener nofollow">Twitter</a>
                 </nav>
             </div>
             <div class="Header-border">
@@ -37,24 +37,54 @@
             </div>
         </header>
 
-        {% block content %}
+        
         <div class="Home">
             <p class="Home-about">
-                {{ config.description }}
+                BitDevsMauritius is a community in Mauritius, for those interested in discussing and participating in the research and development of Bitcoin and related protocols and software.
             </p>
 
             <div class="Home-posts">
                 <h2 class="Home-posts-title">Upcoming and Recent Events</h2>
-                {% for page in section.pages %}
+                
                 <div class="Home-posts-post">
-                    <span class="Home-posts-post-date">{{ page.date | date(format="%Y-%m-%d") }}</span>
+                    <span class="Home-posts-post-date">2026-04-25</span>
                     <span class="Home-posts-post-arrow">&raquo;</span>
-                    <a class="Home-posts-post-title" href="{{ page.permalink }}">{{ page.title }}</a>
+                    <a class="Home-posts-post-title" href="&#x2F;socratic-seminar-5&#x2F;">Socratic Seminar #5</a>
                 </div>
-                {% endfor %}
+                
+                <div class="Home-posts-post">
+                    <span class="Home-posts-post-date">2026-03-28</span>
+                    <span class="Home-posts-post-arrow">&raquo;</span>
+                    <a class="Home-posts-post-title" href="&#x2F;socratic-seminar-4&#x2F;">Socratic Seminar #4</a>
+                </div>
+                
+                <div class="Home-posts-post">
+                    <span class="Home-posts-post-date">2026-02-28</span>
+                    <span class="Home-posts-post-arrow">&raquo;</span>
+                    <a class="Home-posts-post-title" href="&#x2F;socratic-seminar-3&#x2F;">Socratic Seminar #3</a>
+                </div>
+                
+                <div class="Home-posts-post">
+                    <span class="Home-posts-post-date">2026-01-31</span>
+                    <span class="Home-posts-post-arrow">&raquo;</span>
+                    <a class="Home-posts-post-title" href="&#x2F;socratic-seminar-2&#x2F;">Socratic Seminar #2</a>
+                </div>
+                
+                <div class="Home-posts-post">
+                    <span class="Home-posts-post-date">2025-11-20</span>
+                    <span class="Home-posts-post-arrow">&raquo;</span>
+                    <a class="Home-posts-post-title" href="&#x2F;socratic-seminar-1&#x2F;">Socratic Seminar #1</a>
+                </div>
+                
+                <div class="Home-posts-post">
+                    <span class="Home-posts-post-date">2025-10-25</span>
+                    <span class="Home-posts-post-arrow">&raquo;</span>
+                    <a class="Home-posts-post-title" href="&#x2F;socratic-seminar-0&#x2F;">Socratic Seminar #0</a>
+                </div>
+                
             </div>
         </div>
-        {% endblock content %}
+        
 
         <script type="application/ld+json">
 {
@@ -90,7 +120,7 @@
             </div>
             <div class="Footer-inner">
                 <div class="Footer-source">
-                    <a href="{{ config.extra.github }}" target="_blank" rel="noopener nofollow">Source available on
+                    <a href="https:&#x2F;&#x2F;github.com&#x2F;BitDevsMauritius&#x2F;BitDevMauritius" target="_blank" rel="noopener nofollow">Source available on
                         Github</a>
                 </div>
                 <div class="Footer-rss">
