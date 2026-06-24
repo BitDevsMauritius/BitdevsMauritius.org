@@ -7,7 +7,145 @@
       <generator>Zola</generator>
       <language>en</language>
       <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
-      <lastBuildDate>Sat, 25 Apr 2026 00:00:00 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 27 Jun 2026 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Socratic Seminar #7</title>
+          <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-7/</link>
+          <guid>/socratic-seminar-7/</guid>
+          <description xml:base="/socratic-seminar-7/">&lt;h2 id=&quot;location&quot;&gt;Location&lt;&#x2F;h2&gt;
+&lt;p&gt;The event will be hosted at &lt;strong&gt;ALCHE&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;Alche Pamplemousses, Mauritius | &lt;a href=&quot;https:&#x2F;&#x2F;maps.app.goo.gl&#x2F;uHCXHnp2YeZ315Af7&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h2&gt;
+&lt;p&gt;Join us for our Seventh Bitcoin &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our
+sponsor &lt;a href=&quot;http:&#x2F;&#x2F;btrust.tech&#x2F;&quot;&gt;Btrust&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;topics&quot;&gt;Topics&lt;&#x2F;h1&gt;
+&lt;h3 id=&quot;lightning-network-fundamentals-builder-pathways&quot;&gt;Lightning Network Fundamentals &amp;amp; Builder Pathways&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;&#x2F;strong&gt; 1 Hour&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Speakers:&lt;&#x2F;strong&gt; Hanif &amp;amp; Tooshar&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Meetup Agenda&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;1. Welcome &amp;amp; Introduction (5 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;&#x2F;strong&gt; Tooshar&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Welcome and meetup overview&lt;&#x2F;li&gt;
+&lt;li&gt;Recap of the previous Lightning Network session&lt;&#x2F;li&gt;
+&lt;li&gt;Objectives for today&#x27;s discussion&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;2. Lightning Network Fundamentals (25 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;&#x2F;strong&gt; Hanif&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Objective: Reinforce core Lightning concepts and answer outstanding questions.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Topics covered:&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Review of payment channels&lt;&#x2F;li&gt;
+&lt;li&gt;Lightning daemon architecture&lt;&#x2F;li&gt;
+&lt;li&gt;Onion routing and message propagation&lt;&#x2F;li&gt;
+&lt;li&gt;Routing payments across the network&lt;&#x2F;li&gt;
+&lt;li&gt;Interactive Q&amp;amp;A and concept clarification&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;3. Builder Pathways: From Learner to Contributor (20 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;&#x2F;strong&gt; Tooshar&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Objective: Highlight practical pathways into Bitcoin development.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Topics covered:&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to the Btrust Builder Pathway&lt;&#x2F;li&gt;
+&lt;li&gt;Personal journey into the Builder Pathway&lt;&#x2F;li&gt;
+&lt;li&gt;Lessons learned from studying Mastering Bitcoin&lt;&#x2F;li&gt;
+&lt;li&gt;Advice for new developers starting their Bitcoin journey&lt;&#x2F;li&gt;
+&lt;li&gt;Open-source contribution opportunities&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;4. Community Discussion &amp;amp; Closing (10 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Speakers:&lt;&#x2F;strong&gt; Hanif &amp;amp; Tooshar&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Open discussion and questions&lt;&#x2F;li&gt;
+&lt;li&gt;Resources for continued learning&lt;&#x2F;li&gt;
+&lt;li&gt;Preview of next month&#x27;s BitDevs Mauritius meetup&lt;&#x2F;li&gt;
+&lt;li&gt;Community announcements and networking&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;builders&quot;&gt;Btrust Builders&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Socratic Seminar #6</title>
+          <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>/socratic-seminar-6/</link>
+          <guid>/socratic-seminar-6/</guid>
+          <description xml:base="/socratic-seminar-6/">&lt;h2 id=&quot;location&quot;&gt;Location&lt;&#x2F;h2&gt;
+&lt;p&gt;The event will be hosted at &lt;strong&gt;ALCHE&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;Alche Pamplemousses, Mauritius | &lt;a href=&quot;https:&#x2F;&#x2F;maps.app.goo.gl&#x2F;uHCXHnp2YeZ315Af7&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h2&gt;
+&lt;p&gt;Join us for our Sixth Bitcoin &lt;a href=&quot;&#x2F;about&quot;&gt;Socratic Seminar&lt;&#x2F;a&gt;! A special thank you to our
+sponsor &lt;a href=&quot;http:&#x2F;&#x2F;btrust.tech&#x2F;&quot;&gt;Btrust&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We prefer no photos and no videos during the event&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next Socratic Seminar! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;topics&quot;&gt;Topics&lt;&#x2F;h1&gt;
+&lt;h3 id=&quot;lightning-network-daemons-onion-messaging&quot;&gt;Lightning Network — Daemons &amp;amp; Onion Messaging&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;&#x2F;strong&gt; 1 Hour&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Speakers:&lt;&#x2F;strong&gt; Hanif &amp;amp; Sadiq&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Meetup Agenda&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;1. Opening &amp;amp; Context (5 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;&#x2F;strong&gt; Hanif&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Welcome and introduction&lt;&#x2F;li&gt;
+&lt;li&gt;Overview of BitDevs Mauritius and The Blockchain Society ALCHE collaboration&lt;&#x2F;li&gt;
+&lt;li&gt;Why the Lightning Network matters for Bitcoin scalability and privacy&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;2. Understanding Lightning Daemons (20 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;&#x2F;strong&gt; Sadiq&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Objective: Explore the architecture behind Lightning nodes&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;What Lightning daemons are&lt;&#x2F;li&gt;
+&lt;li&gt;Overview of popular implementations (LND, Core Lightning, Eclair)&lt;&#x2F;li&gt;
+&lt;li&gt;Node communication and channel management&lt;&#x2F;li&gt;
+&lt;li&gt;How daemons handle payments and routing&lt;&#x2F;li&gt;
+&lt;li&gt;The role of peers, channels, and network connectivity&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;3. Onion Messaging &amp;amp; Routing (25 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Speaker:&lt;&#x2F;strong&gt; Hanif&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Objective: Understand privacy and communication in Lightning&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to onion routing&lt;&#x2F;li&gt;
+&lt;li&gt;How onion messages travel across the network&lt;&#x2F;li&gt;
+&lt;li&gt;Privacy preservation in Lightning payments&lt;&#x2F;li&gt;
+&lt;li&gt;HTLCs and secure payment forwarding&lt;&#x2F;li&gt;
+&lt;li&gt;Trade-offs and limitations in routing design&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;em&gt;Discussion:&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Real-world implications for scalability and privacy&lt;&#x2F;li&gt;
+&lt;li&gt;Why onion routing matters in decentralized systems&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;4. Open Discussion &amp;amp; Closing (10 minutes)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Speakers:&lt;&#x2F;strong&gt; Hanif &amp;amp; Sadiq&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Questions and community discussion&lt;&#x2F;li&gt;
+&lt;li&gt;Recommended resources for further exploration&lt;&#x2F;li&gt;
+&lt;li&gt;Preview of future BitDevs Mauritius sessions&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.btrust.tech&#x2F;builders&quot;&gt;Btrust Builders&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
       <item>
           <title>Socratic Seminar #5</title>
           <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
