@@ -37,7 +37,7 @@ This session will feature a deep dive into **Client-Side Ecash & Lightning SDK A
 
 **Duration:** 1 hour 30 minutes
 
-**Speaker:** Sadiq
+**Speaker:** Sadiq & Tooshar
 
 ---
 
@@ -48,70 +48,47 @@ Meetup Agenda
 **Speaker:** Sadiq
 
 - Welcome attendees
+- Recap of the Lightning Network learning series
 - Introduction to the session's objectives
-- Introduction to Client-Side Ecash & Lightning SDK architecture
-- Introduction to the `fedimint/fedimint-sdk` PR #401
-- Brief recap of the Android Kotlin architecture from PR #388
 
-**2. Swift/iOS SDK Architecture — 30 minutes**
+**2. Lightning Network Series — 35 minutes**
 
-**Speaker:** Sadiq
+**Speaker:** Tooshar
 
-- Introduction to the Swift/iOS SDK
-- Two-stage architecture used by the SDK
-- Cross-compiling Rust libraries for Apple platforms
-- Apple device, simulator, and host targets
-- Packaging native libraries into `FedimintSdkFFI.xcframework`
-- Swift bindings generated using `uniffi-bindgen`
-- How metadata from `libfedimint_sdk.a` helps prevent API drift
-- Swift Package Manager and `ios/Package.swift`
-- Socratic discussion: What are the benefits and trade-offs of a zero-drift architecture?
-
-**3. Async Operations & Multi-Federation Task Isolation — 25 minutes**
-
-**Speaker:** Sadiq
-
-- Asynchronous quoting
-- Race conditions between concurrent quote requests
-- Handling stale or out-of-order results
-- Task cancellation and ownership
-- Isolating tasks belonging to different federations
-- Preventing cross-federation state interference
-- Socratic discussion: Where should concurrency and task isolation be handled?
-
-**4. Rust-to-Swift & iOS Platform Integration — 15 minutes**
-
-**Speaker:** Sadiq
-
-- Rust-to-Swift interoperability
-- C++ runtime linkage
-- RocksDB and aws-lc dependencies
-- `SystemConfiguration`, `Security`, and `Network` frameworks
-- UniFFI error naming workaround
-- The `SdkError` typealias
-- Challenges of packaging a Rust SDK for Apple platforms
-
-**5. Demo Application, CI & Code Review Discussion — 10 minutes**
-
-**Speaker:** Sadiq
-
-- SwiftUI demo application
-- Wallet lifecycle and balance streaming
-- Ecash, Lightning, Onchain and Activity functionality
-- XcodeGen project configuration
-- CI workflow for XCFramework builds and simulator compilation
-- What the PR's implementation tells us about SDK design
+- Continuing the Lightning Network Series
+- Review of Lightning Network fundamentals
+- Payment channels and liquidity
+- Routing and payment flows
+- Lightning infrastructure and practical use cases
 - Open discussion and questions
 
-**6. Closing & Next Steps — 5 minutes**
+**3. Introduction to Fedimint — 35 minutes**
+
+**Speaker:** Sadiq
+
+- What is Fedimint?
+- Understanding federated systems
+- How Fedimint works
+- Federation members and trust models
+- Fedimint's relationship with Bitcoin and Lightning
+- Use cases for communities and local economies
+
+**4. Community Discussion & Q&A - 10 minutes**
+
+**Speaker:** Sadiq
+
+- Questions about Lightning and Fedimint
+- Discussing potential applications in Mauritius
+- Open-source contribution opportunities
+
+**5. Closing & Next Steps — 5 minutes**
 
 **Speaker:** Sadiq
 
 - Key takeaways
-- Final questions
 - Learning resources
-- Suggestions for future Socratic Seminar topics
 - Preview of the next BitDevs Mauritius meetup
+- Community announcements
 
 ---
 
