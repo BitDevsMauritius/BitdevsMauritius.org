@@ -29,7 +29,7 @@ This session will feature a deep dive into **Client-Side Ecash & Lightning SDK A
 
 # Topics
 
-### Client-Side Ecash & Lightning SDK Architecture
+### Lightning Network & Fedimint
 
 **Date:** September 27, 2026
 
