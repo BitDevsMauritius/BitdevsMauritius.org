@@ -1,6 +1,6 @@
 +++
 title = "Socratic Seminar #10"
-date = 2026-09-26
+date = 2026-09-27
 template = "post.html"
 [extra]
 
@@ -31,7 +31,7 @@ This session will feature a deep dive into **Client-Side Ecash & Lightning SDK A
 
 ### Client-Side Ecash & Lightning SDK Architecture
 
-**Date:** September 26, 2026
+**Date:** September 27, 2026
 
 **Time:** 12:00 PM – 1:30 PM
 
